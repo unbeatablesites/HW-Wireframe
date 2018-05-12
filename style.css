@@ -40,6 +40,17 @@ aside{
 	width: 300px;
 }
 
+#footer{
+	color: #777;
+	background-color: #ebebeb;;
+	text-align: center;
+	width: 100%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+
+
 .center {
     margin: 0 auto;
     width: 1000px;
@@ -49,5 +60,21 @@ aside{
 #right,
 #left {
 	float: left;
+	height: 200px;
+
+}
+
+
+#right{
+	width: 38%;
+	
+}
+
+#left{
+	width: 60%;
+	margin-right: 20px;
+	
+
+
 }
 
