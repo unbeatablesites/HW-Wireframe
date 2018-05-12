@@ -1,3 +1,53 @@
 body{
-	background-color: #777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+    background: #777;
 }
+
+header{
+	color: #777;
+	background-color: #ebebeb;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+nav{
+	color: #777;
+	background-color: #ebebeb;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+section{
+	color: #777;
+	background-color: #ebebeb;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 300px;
+}
+
+aside{
+	color: #777;
+	background-color: #ebebeb;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 300px;
+}
+
+.center {
+    margin: 0 auto;
+    width: 1000px;
+    padding: 10px;
+}
+
+#right,
+#left {
+	float: left;
+}
+
